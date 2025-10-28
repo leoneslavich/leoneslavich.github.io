@@ -1,1 +1,155 @@
-# leoneslavich.github.io
+<HTML>
+<HEAD>
+<TITLE>Leone Slavich</TITLE>
+</HEAD>
+
+<BODY>
+
+<H4><img SRC="io.JPG" height=235 align=LEFT></H4>
+
+<br />
+
+<H1> &nbsp; &nbsp; Leone Slavich </H1>
+
+<H3> &nbsp; &nbsp; &nbsp; Professore Associato in Geometria<BR>
+<BR>
+&nbsp; &nbsp; &nbsp; <a href="https://dima.unige.it/">Dipartimento di Matematica (DIMA)</a> <BR>
+&nbsp; &nbsp; &nbsp; <a href="https://unige.it/">Universit&agrave di Genova</a> <BR>
+<br /> <br /> <br />
+
+<HR>
+<table>
+<tr> <td>
+<FONT SIZE="3">
+&nbsp; &nbsp; &nbsp; &nbsp; <b>Address</b> <br /> 
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Room 933<br />
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Dipartimento di Matematica (DIMA)<br />
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Universit&agrave degli Studi di Genova<br />
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Via Dodecaneso 35<br />
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 16146 Genova<br />
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Italy
+</FONT>
+</td>
+<td> &nbsp; &nbsp; &nbsp; </td>
+<td> &nbsp; &nbsp; &nbsp; </td>
+<td> &nbsp; &nbsp; &nbsp; </td>
+<td> &nbsp; &nbsp; &nbsp; </td>
+<td>
+<FONT SIZE="3">
+<br />
+&nbsp;
+
+<!--	&nbsp; Fax: <br /> -->
+&nbsp; Email: leone.slavich [at] gmail.com, leone.slavich [at] unige.it
+</FONT> </td> </tr>
+</table>
+<HR>
+
+<P>
+
+<H3><A HREF="didattica/didattica.html">Didattica (Teaching)</A></H3>
+
+
+
+<H3>Research interests</H3>
+<ul>
+I am interested in geometric topology, particularly in the study of hyperbolic geometry and the geometry and topology of hyperbolic manifolds. I tend to focus on high-dimensional objects (especially 4-manifolds), which I like to build and describe using both arithmetic tools and face pairings on hyperbolic polytopes. My aim is constructing original examples and studying their geometric and topological properties. 
+</ul>
+
+
+
+<!--
+Here are my <a href="cv-140716.pdf"> CV</a> and my <a href="rs-140404.pdf"> research statement</a>.
+ -->
+
+
+
+<H3>Papers and preprints</H3>
+<ol type="1">
+<LI>
+	<A HREF="https://academic.oup.com/imrn/article/2024/13/10081/7638789?utm_source=etoc&utm_campaign=imrn&utm_medium=email">Arithmetic trialitarian hyperbolic lattices are not LERF</A> (with N. Bogachev and H. Sun). <BR>
+	<I> International Mathematics Research Notices</I>, Volume<B> 2024</B>, Issue 13 (2024), 10081-10087. (<A HREF="https://arxiv.org/abs/2310.20611">arXiv</A>) </I>
+
+
+
+<LI>
+	Subspace stabilisers in hyperbolic lattices</A> (with M. Belolipetski, N. Bogachev and A. Kolpakov). <BR>
+	(<A HREF="https://arxiv.org/abs/2105.06897">arXiv</A>) </I>
+
+<LI>
+	<A HREF="http://doi.org/10.1112/plms.12421">Cusps of hyperbolic 4-manifolds and rational homology spheres</A> (with L. Ferrari and A. Kolpakov). <BR>
+	<I>Proceedings of the London Mathematical Society</I> <B>123</B> 636-648 (2021). (<A HREF="https://arxiv.org/abs/2009.09995">arXiv</A>)
+
+<LI>
+	<A HREF="https://link.springer.com/article/10.1007/s10711-020-00557-z">Convex plumbings in closed hyperbolic 4-manifolds</A> (with B. Martelli and S. Riolo) <BR>
+	<I> Geom. Dedicata</I> <B>212</B> (2020) 243-259. (<A HREF="https://arxiv.org/abs/2003.08434">arXiv</A>)
+
+
+
+
+	<LI>
+	<A HREF="https://dx.doi.org/10.4310/MRL.2022.v29.n1.a7">Embedding non-arithmetic hyperbolic manifolds</A> (with A. Kolpakov and S. Riolo) <BR>
+	<I>Mathematical Research Letters.</I> Vol. 29, No. 1 (2022), 247-274  (<A HREF="https://arxiv.org/abs/2003.01707">arXiv</A>)
+	
+	
+	
+<LI>
+	<A HREF="https://msp.org/gt/2020/24-5/gt-v24-n5-p08-s.pdf">Compact hyperbolic manifolds without spin structures</A> (with B. Martelli and S. Riolo) <BR>
+    <I>Geometry & Topology</I>  <B>24</B>, Issue 5 (2020) 2647-2674 (<A HREF="https://arxiv.org/abs/1904.12720">arXiv</A>),
+
+
+<LI>
+		<A HREF="https://msp.org/agt/2019/19-5/p10.xhtml">New hyperbolic 4-manifolds of low volume</A> (with S. Riolo) <BR>
+		<I>Algebraic & Geometric Topology</I> <B>19-5</B>, (2019), 2653-2676. (<A HREF="https://arxiv.org/abs/1710.07534">arXiv</A>)
+        <LI>
+        <A HREF="https://www.intlpress.com/site/pub/pages/journals/items/mrl/content/vols/0025/0004/a012/">Embedding arithmetic hyperbolic manifolds</A> (with A. Kolpakov and A. W. Reid) <BR>
+        <I>Mathematical Research Letters</I> <B>25</B> (2018), 1305-1328. (<A HREF="https://arxiv.org/abs/1703.10561">arXiv</A>)</li>
+
+        <LI>
+        <A HREF="http://www.ams.org/journals/proc/2017-145-03/S0002-9939-2016-13272-3/">The complement of the figure-eight knot geometrically bounds</A> <BR>
+        <I> Proceedings of the American Mathematical Society</I> <B>145</B>, no. 3 (2017), 1275-1285. (<A HREF="https://arxiv.org/abs/1511.08684">arXiv</A>) </li>
+
+<LI>
+        <A HREF="https://londmathsoc.onlinelibrary.wiley.com/doi/10.1112/plms/pdw025">Hyperbolic 4-manifolds, colorings and mutations</A> (with A. Kolpakov) <BR>
+        <I> Proceedings of the London Mathematical Society</I> <B>113</B>, no. 2 (2016), 163-184.  (<A HREF="https://arxiv.org/abs/1507.02747">arXiv</A>)</li>
+
+        <LI>
+        <A HREF="https://academic.oup.com/imrn/article/2016/9/2677/2450955">Symmetries of hyperbolic 4-manifolds</A> (with A. Kolpakov) <BR>
+        <I> International Mathematics Research Notices</I>, Volume<B> 2016</B>, Issue 9 (2016), 2677-2716. (<A HREF="https://arxiv.org/abs/1409.1910">arXiv</A>)</li>
+	
+        <LI>
+	  <A HREF="https://www.sciencedirect.com/science/article/pii/S0166864115001698">Some hyperbolic 4-manifolds with low volume and number of cusps</A> <BR>
+	  <I> Topology and its Applications</I> <B>191</B>, (2015), 1-9. (<A HREF="https://arxiv.org/abs/1402.2580">arXiv</A>) </li>
+
+	<LI>
+	<A HREF="https://msp.org/agt/2015/15-2/p19.xhtml">A geometrically bounding hyperbolic link complement</A> <BR>
+	<I> Algebraic & Geometric Topology</I> <B>15-2</B>, (2015), 1175-1197. (<A HREF="https://arxiv.org/abs/1402.2208">arXiv</A>)</li>
+	
+        
+
+
+  </ol>
+
+<P>
+
+<H3>Mathematics and Music</H3>
+Some time ago I was a visiting student at <A HREF="https://www.ircam.fr/"> Ircam</A> in Paris, where I studied some of the mathematical ideas underlying music theory and composition. If you are curious and you know italian, <A HREF="tesi2.pdf"> here </A> you can find the thesis that I wrote there.
+
+<P>
+
+Here you will find a link to my <a href="CV.pdf"> CV </A> with some more info on myself.
+
+
+
+
+</UL>
+
+
+<BR/>
+
+<HR>
+<PRE> Last modified 09.10.24   </PRE>
+<HR>
+
+</BODY>
+</HTML>
