@@ -1,0 +1,12 @@
+Pisa:
+
+rsync -av --delete Dropbox/webpage/ slavich@zeno.cs.dm.unipi.it:/pages/slavich 
+
+
+Pavia:
+
+rsync -av --delete Dropbox/webpage/ slavich@mate.unipv.it:public_html
+
+prova:
+
+rsync -av --delete -e "ssh -oKexAlgorithms=+diffie-hellman-group1-sha1" Dropbox/webpage/ slavich@mate.unipv.it:public_html
